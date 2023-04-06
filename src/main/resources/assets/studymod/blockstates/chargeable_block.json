@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "charged=false": { "model":  "studymod:block/chargeable_block" },
+    "charged=true": { "model":  "studymod:block/chargeable_block_charged" }
+  }
+}

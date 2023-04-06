@@ -1,0 +1,33 @@
+{
+  "variants": {
+    "facing=north": {
+      "model":  "studymod:block/all_slab_block",
+      "uvlock": true
+    },
+    "facing=east": {
+      "model":  "studymod:block/all_slab_block",
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=south": {
+      "model":  "studymod:block/all_slab_block",
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=west": {
+      "model":  "studymod:block/all_slab_block",
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=up": {
+      "model":  "studymod:block/all_slab_block",
+      "x": 90,
+      "uvlock": true
+    },
+    "facing=down": {
+      "model":  "studymod:block/all_slab_block",
+      "x": 270,
+      "uvlock": true
+    }
+  }
+}

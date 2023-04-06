@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model":  "studymod:block/demo_block" }
+  }
+}
